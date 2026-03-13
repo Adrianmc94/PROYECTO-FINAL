@@ -34,10 +34,5 @@ final class ExpenseItem {
         self.name = name
         self.price = price
     }
-}//
-//  Expense.swift
-//  Kora
-//
-//  Created by Adrián Míguez Campos on 12/3/26.
-//
+}
 

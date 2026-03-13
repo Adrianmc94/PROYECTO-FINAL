@@ -1,10 +1,3 @@
-//
-//  OCRService.swift
-//  Kora
-//
-//  Created by Adrián Míguez Campos on 12/3/26.
-//
-
 import Foundation
 import Vision
 import UIKit
